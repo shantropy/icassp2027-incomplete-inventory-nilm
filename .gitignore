@@ -1,0 +1,9 @@
+days/
+results/
+.venv/
+__pycache__/
+*.pyc
+.venv/
+decoded.csv
+restricted.csv
+.DS_Store
